@@ -10,10 +10,14 @@ The dataset used in this project is collected from kaggle. It includes informati
 
 # Code and Resources
 Editor Used: Jupyter Notebook
+
 Language used: Python
+
 # Python Packages Used
 Data Manupulation: Numpy, Pandas
+
 Data Visualisation: Matplotlib, Seaborn
+
 Machine Learning: Scikit-Learn
 
 
